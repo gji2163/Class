@@ -1,0 +1,11 @@
+05	format is => xy
+
+	#Day Lag(x)
+	       {Day->Day Order
+		Mon->1+val
+		Tue->2+val
+		Wed->3+val
+		Thu->4+val
+		Fri->5+val
+	       }
+	#No. of days in week(y)
